@@ -1,3 +1,4 @@
 ﻿path,name
-./models/sample.glb,サンプル
-https://echizencity.github.io/opendata/kokufuhakkutsu/00101_kokufuhakkutsu_small.glb,遺構2023
+./models/kokaidotest1.glb,石製鬼瓦(府中城跡)
+./models/kokaidotest2.glb,弥生土器(横枕遺跡)
+./models/kokaidotest3.glb,弥生土器(瓜生助道遺跡)
